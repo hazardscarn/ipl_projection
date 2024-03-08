@@ -58,6 +58,10 @@ if selected_team:
 filtered_df = fantasy_projections_df.loc[condition]
 
 # Prepare the player stats with total fantasy points
+# player_stats = filtered_df.groupby(['player_id','name', 'team', 'position']).agg(
+#     total_fpoints=('fpoints_projected', lambda x: x.mean() * 14),
+# ).reset_index()
+
 player_stats = filtered_df.groupby(['name', 'team', 'position']).agg(
     total_fpoints=('fpoints_projected', lambda x: x.mean() * 14),
 ).reset_index()
@@ -147,6 +151,9 @@ with tab1:
 
 with tab2:
     # Adjusted function to match the current DataFrame structure
+
+    st.toast("CSK Game Win Probability Updated as of 2023-03-07 with Devon Conway Ruled out till May")
+
     def highlight_win_probability(row):
         # Background colors
         higher_color_bg = 'background-color: #006400;'  # Soft Green

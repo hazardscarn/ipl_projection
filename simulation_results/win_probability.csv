@@ -1,11 +1,11 @@
 matchid,team1name,team2name,team1_win_percentage,team2_win_percentage,venue,match_number
-89654,CSK,RCB,60.0,40.0,MAChidambaramStadium,1
+89654,CSK,RCB,53.0,47.0,MAChidambaramStadium,1
 89661,PBKS,DC,41.0,59.0,PunjabCricketAssociationISBindraStadium,2
 89665,KKR,SRH,49.0,51.0,EdenGardens,3
 89668,RR,LSG,53.0,47.0,SawaiMansinghStadium,4
 89675,GT,MI,37.0,63.0,NarendraModiStadium,5
 89682,RCB,PBKS,52.0,48.0,MChinnaswamyStadium,6
-89689,CSK,GT,55.00000000000001,45.0,MAChidambaramStadium,7
+89689,CSK,GT,61.0,39.0,MAChidambaramStadium,7
 89693,SRH,MI,39.0,61.0,RajivGandhiInternationalStadium,8
 89700,RR,DC,55.00000000000001,45.0,SawaiMansinghStadium,9
 89703,RCB,KKR,42.0,57.99999999999999,MChinnaswamyStadium,10
@@ -16,7 +16,7 @@ matchid,team1name,team2name,team1_win_percentage,team2_win_percentage,venue,matc
 89738,RCB,LSG,44.0,56.00000000000001,MChinnaswamyStadium,15
 89745,DC,KKR,54.0,46.0,DrYSRajasekharaReddyACAVDCACricketStadium,16
 89749,GT,PBKS,55.00000000000001,45.0,NarendraModiStadium,17
-89752,SRH,CSK,48.0,52.0,RajivGandhiInternationalStadium,18
+89752,SRH,CSK,50.0,50.0,RajivGandhiInternationalStadium,18
 89756,RR,RCB,63.0,37.0,SawaiMansinghStadium,19
 89763,MI,DC,54.0,46.0,WankhedeStadium,20
 89770,LSG,GT,62.0,38.0,BharatRatnaShriAtalBihariVajpayeeEkanaCricketStadium,21
