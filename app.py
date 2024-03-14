@@ -152,7 +152,8 @@ with tab1:
 with tab2:
     # Adjusted function to match the current DataFrame structure
 
-    st.toast("CSK Game Win Probability Updated as of 2023-03-07 with Devon Conway Ruled out till May")
+    #st.toast("CSK Game Win Probability Updated as of 2023-03-07 with Devon Conway Ruled out till May")
+    st.toast("Last Updated on 2024-03-14 considering new players added to squad and players dropped from IPL")
 
     def highlight_win_probability(row):
         # Background colors
